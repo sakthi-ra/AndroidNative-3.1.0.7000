@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!DOCTYPE plist SYSTEM "file://localhost/System/Library/DTDs/PropertyList.dtd">
+<plist version="1.0">
+    <dict>
+        <key>Production</key>
+        <dict>
+            <key>WebService</key>
+            <array>
+                <dict>
+                    <key>port</key>
+                    <string>8080</string>
+
+                    <key>username</key>
+                    <string></string>
+
+                    <key>protocol</key>
+                    <string>http</string>
+
+                    <key>host</key>
+                    <string>172.16.27.19</string>
+
+                    <key>name</key>
+                    <string>Native_Eshop</string>
+
+                    <key>context</key>
+                    <string>javawebserviceeshop</string>
+
+                    <key>password</key>
+                    <string></string>
+                </dict>
+            </array>
+        </dict>
+    </dict>
+</plist>

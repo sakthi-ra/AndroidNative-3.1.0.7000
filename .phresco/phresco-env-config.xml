@@ -1,0 +1,34 @@
+<environments>
+    
+
+
+
+
+    
+
+    
+
+    
+
+    
+<environment appliesTo="" default="true" desc="Production Environment is used for Development purpose only" name="Production">
+        <WebService desc="Webservice Configuration for Android Native Eshop application" name="Native_Eshop">
+            <port>8080</port>
+            <password/>
+            <context>javawebserviceeshop</context>
+            <host>172.16.27.19</host>
+            <protocol>http</protocol>
+            <username/>
+        </WebService>
+    </environment>
+    <environment appliesTo="" default="false" desc="" name="Test">
+        <WebService desc="Webservice Configuration for Android Native Eshop application" name="Native_Eshop">
+            <port>8080</port>
+            <password/>
+            <context>javawebserviceeshop</context>
+            <host>172.16.27.19</host>
+            <protocol>http</protocol>
+            <username/>
+        </WebService>
+    </environment>
+</environments>

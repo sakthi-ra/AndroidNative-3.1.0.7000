@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+    PHR_AndroidNative
+
+    Copyright (C) 1999-2013 Photon Infotech Inc.
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+            http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
+-->
+<phresco>
+<data>
+    
+        <firstname>phresco</firstname>
+		<lastname>tester</lastname>
+		
+		
+		<delivery_firstname>Robotium</delivery_firstname>
+		<delivery_address1>NewYork Avenue</delivery_address1>
+		<delivery_zipcode>08054123</delivery_zipcode>
+		<delivery_phonenumber>202-346-1100</delivery_phonenumber>
+		<delivery_city>Arizona</delivery_city>
+     
+		<billing_firstname>robotium</billing_firstname>
+		<billing_lastname>monkeyrunner</billing_lastname>
+		<billing_company>TestCompany</billing_company>
+		<billing_address1>Florida</billing_address1>
+		<billing_city>California</billing_city>
+		<billing_zip>99736 2010</billing_zip>
+		
+        <confirm_password_dialog>Confirm password must match with password</confirm_password_dialog>
+        <invalid_login_msg>Invalid Email address</invalid_login_msg>
+        <confirm_category_dialog>Please fill required fields</confirm_category_dialog>
+        
+        <message_exist>Already exist</message_exist>
+        <message_inserted>Inserted</message_inserted>
+        <message_login_success>Login Success</message_login_success>
+        <message_login_fail>Login failed</message_login_fail>
+        <user_comments>Its Really Great product.............</user_comments>
+       
+        
+</data>
+</phresco>

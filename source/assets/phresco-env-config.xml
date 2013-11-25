@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><environments>
+    <environment default="true" name="Test">
+        <WebService name="Native_Eshop">
+            <port>8080</port>
+            <password/>
+            <context>javawebserviceeshop</context>
+            <host>172.16.27.19</host>
+            <protocol>http</protocol>
+            <username/>
+        </WebService>
+    </environment>
+</environments>
